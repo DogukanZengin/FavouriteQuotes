@@ -8,3 +8,4 @@ Just a repo for quotes I come up to while studying things
  - Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale. @The Agile Manifesto, Kent Beck et al.
  - Event sourcing is all about storing facts and any time you have “state” (structural models)—they are first-level derivative off of your facts. And they are transient. @Greg Young, Code on the Beach, 2014
  - There are only two hard things in computer science: cache invalidation and naming things. @Phil Karlton
+ - Organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations. @Melvin Conway
